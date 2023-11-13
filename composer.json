@@ -1,5 +1,5 @@
 {
-    "name": "bitshost/php-mvc",
+    "name": "bitshost/upmvc",
     "description": "PHP MVC with Router",
     "require": {
         "php": ">=8.2",
