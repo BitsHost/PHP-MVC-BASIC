@@ -5,6 +5,14 @@
         "php": ">=8.2",
         "another-vendor/package": "1.*"
     },
+    "authors": [
+        {
+            "name": "Adrian D",
+            "email": "office@bitshost.net",
+            "homepage": "https://bitshost.net",
+            "role": "Developer"
+        }
+    ],
     "license": [
         "MIT"
     ],
