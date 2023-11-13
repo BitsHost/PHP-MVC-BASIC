@@ -1,0 +1,19 @@
+{
+    "name": "bitshost/php-mvc",
+    "description": "PHP MVC with Router",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "router/",
+            "Controllers\\": "controllers/",
+            "Models\\": "models/",
+            "Views\\": "views/"
+        }
+    }
+}
