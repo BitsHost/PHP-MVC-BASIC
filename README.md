@@ -24,9 +24,13 @@ Composer Integration: Manage dependencies seamlessly and enhance your project wi
 Getting Started:
 
 Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/BitsHost/PHP-MVC-BASIC)
+
 Install dependencies: composer install
+
 Configure your web server to point to the public directory.
+
 Explore the app directory for controllers, models, and views to begin building your application.
+
 Extensibility:
 
 This starter kit is intentionally minimal, allowing you to easily extend and tailor it to your project's unique requirements. Add new features, components, or modify existing ones as your application evolves.
