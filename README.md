@@ -1,37 +1,40 @@
 # PHP-MVC-BASIC
  PHP MVC with router.
 
+Project Title:
 
-## Bitshost PHP MVC Basic example
+PHP MVC Starter Kit with Router and Composer
 
-The Bitshost PHP MVC Framework is a meticulously designed Model-View-Controller system built in PHP, following Object-Oriented Programming (OOP) principles. It's equipped with a powerful routing system and is optimized for simplicity, efficiency, and scalability.
+Description:
 
-### Key Features:
+Jumpstart your PHP web development with this extensible MVC Starter Kit. It provides a minimal yet powerful foundation for building web applications, featuring a flexible router, built-in namespace support, and adhering to Object-Oriented Programming (OOP) principles. Use it as a starting point and effortlessly extend it to match your project requirements.
 
-- **MVC Architecture:** Organized into distinct layers of Model, View, and Controller, ensuring a clean separation of concerns and easier maintenance.
-- **Elegant Router:** Features a beautifully crafted router that enhances navigation and facilitates seamless handling of HTTP requests.
-- **Namespace Utilization:** Leverages namespaces to ensure a well-organized, modular structure, reducing naming conflicts and enhancing code reusability.
-- **Composer Integration:** Utilizes Composer for streamlined package management, allowing easy incorporation of external libraries and management of project dependencies.
+Key Features:
 
-### Why Bitshost?
+MVC Architecture: Start with a clean and organized codebase by structuring your application into Model, View, and Controller components.
 
-The framework's emphasis on PHP OOP, combined with a structured MVC pattern, robust routing capabilities, and integration of namespaces and Composer, provides a solid foundation for the development of web applications.
+Flexible Router: Easily handle URL routing and customize it to suit your application's needs.
 
-### Get Started
+Built-in Namespace Support: Organize your codebase efficiently with built-in support for PHP namespaces.
 
-To start using Bitshost PHP MVC Framework, explore the repository and follow the documentation provided in the [Wiki]([link-to-wiki](https://github.com/BitsHost/PHP-MVC-BASIC/wiki)) for installation and usage instructions.
+Object-Oriented Programming (OOP): Adopt modern PHP practices with an emphasis on OOP for better code organization and maintainability.
 
-### Contributing
+Composer Integration: Manage dependencies seamlessly and enhance your project with additional libraries using Composer.
 
-We welcome contributions! If you'd like to improve the framework or report issues, please refer to the [Contribution Guidelines]([link-to-contribution-guidelines](https://github.com/BitsHost/PHP-MVC-BASIC)) to learn how to get involved.
+Getting Started:
 
-### License
+Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/BitsHost/PHP-MVC-BASIC)
+Install dependencies: composer install
+Configure your web server to point to the public directory.
+Explore the app directory for controllers, models, and views to begin building your application.
+Extensibility:
 
-This project is licensed under the [MIT License] - see the [LICENSE]([link-to-license](https://github.com/BitsHost/PHP-MVC-BASIC/blob/main/LICENSE)) file for details.
+This starter kit is intentionally minimal, allowing you to easily extend and tailor it to your project's unique requirements. Add new features, components, or modify existing ones as your application evolves.
 
-### Acknowledgements
+Contributing:
 
-We acknowledge and appreciate the contributions of all developers who have helped make Bitshost PHP MVC Framework what it is today.
+Contributions are welcome! Feel free to open GitHub issues for feedback, bug reports, or submit pull requests to enhance the starter kit.
 
----
+License:
 
+This project is licensed under the MIT License.
