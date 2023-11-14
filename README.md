@@ -1,4 +1,4 @@
-# PHP-MVC-BASIC
+# PHP MVC BASIC KIT
  PHP MVC with router.
 
 Project Title:
@@ -23,7 +23,7 @@ Composer Integration: Manage dependencies seamlessly and enhance your project wi
 
 Getting Started:
 
-Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/BitsHost/PHP-MVC-BASIC)
+Clone the repository: git clone [PHP MVC BASIC KIT](https://github.com/BitsHost/PHP-MVC-BASIC)
 
 Install dependencies: composer install
 
