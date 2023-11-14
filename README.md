@@ -1,5 +1,5 @@
 # PHP MVC BASIC KIT
- PHP MVC with router.
+PHP MVC Starter Kit with Router and Composer
 
 Project Title:
 
