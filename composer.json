@@ -1,6 +1,6 @@
 {
-    "name": "bitshost/upmvc",
-    "description": "PHP MVC with Router",
+    "name": "bitshost/upmvc-basic-mvc",
+    "description": "PHP Basic MVC with Router",
     "require": {
         "php": ">=8.2",
         "another-vendor/package": "1.*"
