@@ -1,8 +1,10 @@
 {
     "name": "bitshost/upmvc-basic-mvc",
     "description": "PHP Basic MVC with Router",
+    "type": "project",
+    "minimum-stability": "dev",
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "another-vendor/package": "1.*"
     },
     "authors": [
