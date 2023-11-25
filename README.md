@@ -5,6 +5,10 @@ Project Title:
 
 PHP MVC Starter Kit with Router and Composer
 
+Install:
+## composer require bitshost/upmvc-basic-mvc
+## composer create-project --prefer-dist --stability=dev bitshost/upmvc-basic-mvc yourfolder
+
 Description:
 
 Jumpstart your PHP web development with this extensible MVC Starter Kit. It provides a minimal yet powerful foundation for building web applications, featuring a flexible router, built-in namespace support, and adhering to Object-Oriented Programming (OOP) principles. Use it as a starting point and effortlessly extend it to match your project requirements.
