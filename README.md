@@ -5,9 +5,11 @@ Project Title:
 
 PHP MVC Starter Kit with Router and Composer
 
-Install:
-## composer require bitshost/upmvc-basic-mvc
-## composer create-project --prefer-dist --stability=dev bitshost/upmvc-basic-mvc yourfolder
+##Install:
+
+
+### composer require bitshost/upmvc-basic-mvc
+### composer create-project --prefer-dist --stability=dev bitshost/upmvc-basic-mvc yourfolder
 
 Description:
 
